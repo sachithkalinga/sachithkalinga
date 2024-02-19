@@ -20,13 +20,3 @@ He/Him
 
 ## ⚡ Fun fact: ...
 I love to explore new technologies and leverage them to solve real-life problems.
-
-## 📊 This week I spent my time on
-
-!SachithKalinga's wakatime stats
-
-## 🏆 My Github Stats
-
-!SachithKalinga's GitHub stats
-fsdf
-sdfds
