@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there 👋, I'm Sachith Kalinga!<br>🌱 I’m currently learning ...<br>I'm currently pursuing an MSc in Data Science and Artificial Intelligence. My interests lie in Machine Learning, Deep Learning, and related fields.<br><br>👯 I’m looking to collaborate on ...<br>I'm open to collaborating on projects related to Machine Learning and Deep Learning.<br><br>🤔 I’m looking for help with ...<br>Feel free to reach out if you have interesting ideas or need collaboration on AI-related projects.<br><br>💬 Ask me about ...<br>You can ask me about Data Science, Machine Learning, and Deep Learning.<br><br>📫 How to reach me: ...<br>You can reach me at my email: sachithkalinga@gmail.com<br><br>😄 Pronouns: ...<br>He/Him<br><br>⚡ Fun fact: ...<br>I love to explore new technologies and leverage them to solve real-life problems.
+Hi there 👋, I'm Sachith Kalinga!<br>
+
+🌱 I’m currently learning ...<br>I'm currently pursuing an MSc in Data Science and Artificial Intelligence. My interests lie in Machine Learning, Deep Learning, and related fields.<br><br>👯 I’m looking to collaborate on ...<br>I'm open to collaborating on projects related to Machine Learning and Deep Learning.<br><br>🤔 I’m looking for help with ...<br>Feel free to reach out if you have interesting ideas or need collaboration on AI-related projects.<br><br>💬 Ask me about ...<br>You can ask me about Data Science, Machine Learning, and Deep Learning.<br><br>📫 How to reach me: ...<br>You can reach me at my email: sachithkalinga@gmail.com<br><br>😄 Pronouns: ...<br>He/Him<br><br>⚡ Fun fact: ...<br>I love to explore new technologies and leverage them to solve real-life problems.
 
 
 ## 🌐 Socials:
