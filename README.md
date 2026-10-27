@@ -85,14 +85,6 @@ With an advanced academic foundation in Data Science & AI from the University of
 
 ---
 
-## 📈 Activity & Engineering Pulse
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachithkalinga&theme=react-dark&hide_border=true&area=true&color=2563eb" width="95%" alt="Sachith Kalinga Activity Graph" />
-</div>
-
----
-
 ## 🎓 Education & Verified Research
 
 - **Master of Science (MSc) in Data Science and Artificial Intelligence** (2025)  
