@@ -44,7 +44,6 @@ With an advanced academic foundation in Data Science & AI from the University of
 ![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=flat-square&logo=databricks&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-2563EB?style=flat-square&logo=openai&logoColor=white)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-0284C7?style=flat-square&logo=search&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### 📊 Machine Learning, Deep Learning & MLOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -55,19 +54,43 @@ With an advanced academic foundation in Data Science & AI from the University of
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### ⚙️ Backend, Databases & Containerization
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### ☁️ Cloud, Servers & BaaS Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### 🖥️ Systems, Infrastructure & Enterprise Networks
 ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=linux&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![GPUStack](https://img.shields.io/badge/GPUStack_HPC-7C3AED?style=flat-square&logo=nvidia&logoColor=white)
+
+### ⚙️ Backend, Databases & APIs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### ⚡ Workflow Automation & Low-Code Systems
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### 📈 Technical SEO & Web Analytics
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Bing Webmaster](https://img.shields.io/badge/Bing_Webmaster-008373?style=flat-square&logo=microsoftbing&logoColor=white)
+![Yandex Webmaster](https://img.shields.io/badge/Yandex_Webmaster-FC3F1D?style=flat-square&logo=yandex&logoColor=white)
+
+### 🌐 CMS & E-Commerce Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
+
+### 🏢 Enterprise Networks & Hardware Systems
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Ubiquiti UniFi](https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 ![VLANs & Security](https://img.shields.io/badge/VLANs_&_Hardening-334155?style=flat-square&logo=wireshark&logoColor=white)
