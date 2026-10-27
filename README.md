@@ -12,7 +12,6 @@
 
 <!-- Verified Identity Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachithkalinga-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachithkalinga)
-[![Medium](https://img.shields.io/badge/Medium-@sachithkalinga-12100e?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sachithkalinga)
 [![X](https://img.shields.io/badge/X-@sachithkalinga-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachithkalinga)
 [![Email](https://img.shields.io/badge/Email-sachithkalinga@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachithkalinga@gmail.com)
 
@@ -105,7 +104,21 @@ With an advanced academic foundation in Data Science & AI from the University of
   *Disciplines:* Computer Science, Mathematics, and Physics.
 
 - **Peer-Reviewed Scientific Publication:**  
-  *3D Data Modelling of Human EEG Signals* — **IEEE / 22nd International Conference on Advanced Communication Technology (ICACT 2020)**.
+  *3D Data Modelling of Human EEG Signals* — **[IEEE / 22nd International Conference on Advanced Communication Technology (ICACT 2020)](http://repository.kln.ac.lk/handle/123456789/20317)**.
+
+---
+
+## 📜 Professional Certifications & Credentials
+
+| Specialization / Certificate | Issuing Organization | Date | Verified Credential |
+|:---|:---|:---|:---|
+| **Deep Learning Specialization** | DeepLearning.AI & Coursera | Jun 2024 | [Verify Credential ↗](https://coursera.org/share/e1179f7cb5ab4d2fa2769df522d3f352) |
+| **Google Business Intelligence Professional** | Google & Coursera | Jul 2024 | [Verify Credential ↗](https://coursera.org/share/190ce8e0349aba3a30f3d31abeaaafae) |
+| **AI/ML Engineer (Stage 1)** | SLIIT | Jun 2024 | [Verify Credential ↗](https://code.sliit.org/certificates/fudewh0l46) |
+| **Docker Foundations Professional** | Docker & LinkedIn Learning | Jul 2024 | [Verify Credential ↗](https://www.linkedin.com/learning/certificates/97786f7083644874c696a667afcb23a2bb21d533f64074e814ab3591d1f613aa?trk=share_certificate) |
+| **Career Essentials in GitHub** | GitHub & LinkedIn Learning | Jun 2024 | [Verify Credential ↗](https://www.linkedin.com/learning/certificates/97786f7083644874c696a667afcb23a2bb21d533f64074e814ab3591d1f613aa?trk=share_certificate) |
+| **Python Programmer Bootcamp** | 365 Data Science | Nov 2022 | [Verify Credential ↗](https://learn.365datascience.com/certificates/CC-F984858160/) |
+| **Python (Basic) Certification** | HackerRank | Feb 2023 | [Verify Credential ↗](https://www.hackerrank.com/certificates/bd8a784b5316) |
 
 ---
 
@@ -114,7 +127,6 @@ With an advanced academic foundation in Data Science & AI from the University of
 I am open to technical discussions, autonomous AI agent architecture advisory, and machine learning engineering engagements:
 
 - 💼 **LinkedIn:** [linkedin.com/in/sachithkalinga](https://linkedin.com/in/sachithkalinga)
-- 📝 **Technical Writing on Medium:** [@sachithkalinga](https://medium.com/@sachithkalinga)
 - 🐦 **X (Twitter):** [@sachithkalinga](https://x.com/sachithkalinga)
 - ✉️ **Direct Email:** [sachithkalinga@gmail.com](mailto:sachithkalinga@gmail.com)
 
