@@ -1,0 +1,34 @@
+name: Update Copyright Year
+
+on:
+  schedule:
+    # Runs automatically at 00:00 UTC on January 1st every year
+    - cron: '0 0 1 1 *'
+  workflow_dispatch: # Allows manual one-click trigger anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Year in README.md
+        run: |
+          CURRENT_YEAR=$(date +'%Y')
+          sed -i -E "s/<sub>© [0-9]{4} Sachith Kalinga<\/sub>/<sub>© $CURRENT_YEAR Sachith Kalinga<\/sub>/g" README.md
+
+      - name: Commit and Push if Changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Year is already up to date."
+          else
+            git commit -m "chore(readme): update copyright year to $(date +'%Y')"
+            git push
+          fi

@@ -1,19 +1,130 @@
-# 💫 About Me:
-Hi there 👋, I'm Sachith Kalinga!<br>
+<div align="center">
 
-🌱 I’m currently learning ...<br>I'm currently pursuing an MSc in Data Science and Artificial Intelligence. My interests lie in Machine Learning, Deep Learning, and related fields.<br><br>👯 I’m looking to collaborate on ...<br>I'm open to collaborating on projects related to Machine Learning and Deep Learning.<br><br>🤔 I’m looking for help with ...<br>Feel free to reach out if you have interesting ideas or need collaboration on AI-related projects.<br><br>💬 Ask me about ...<br>You can ask me about Data Science, Machine Learning, and Deep Learning.<br><br>📫 How to reach me: ...<br>You can reach me at my email: sachithkalinga@gmail.com<br><br>😄 Pronouns: ...<br>He/Him<br><br>⚡ Fun fact: ...<br>I love to explore new technologies and leverage them to solve real-life problems.
+<!-- Visual Header Art: Waving Architectural Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,45:0f172a,100:1d4ed8&height=220&section=header&text=Sachith%20Kalinga&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Machine%20Learning%20%7C%20Autonomous%20Agents%20%7C%20Data%20Systems&descSize=18&descAlignY=64&descAlign=50" width="100%" alt="Sachith Kalinga Header Banner" />
 
+<!-- Dynamic Terminal-Style Typing Animation -->
+<a href="https://linkedin.com/in/sachithkalinga">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=45&lines=Machine+Learning+%26+Deep+Learning;Autonomous+AI+Agents+%26+Production+RAG;HPC+GPU+Cluster+Deployment+(GPUStack);Published+IEEE+Researcher+(3D+EEG+Signals)" alt="Typing SVG Animation" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachithkalinga) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sachithkalinga) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sachithkalinga) 
+<br/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=flat&logo=ubiquiti&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+<!-- Verified Identity Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachithkalinga-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachithkalinga)
+[![Medium](https://img.shields.io/badge/Medium-@sachithkalinga-12100e?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sachithkalinga)
+[![X](https://img.shields.io/badge/X-@sachithkalinga-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachithkalinga)
+[![Email](https://img.shields.io/badge/Email-sachithkalinga@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachithkalinga@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sachithkalinga&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<p align="center">
+  📍 Nugegoda / Colombo, Sri Lanka &nbsp;•&nbsp; 🎓 MSc in Data Science & AI &nbsp;•&nbsp; 🔬 IEEE ICACT 2020 Author
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sachithkalinga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## 📌 Executive Summary
+
+I specialize in **Machine Learning**, production-grade **Autonomous AI Agents**, **Enterprise Retrieval-Augmented Generation (RAG)** architectures, high-dimensional **Vector Search (Qdrant)**, and **High-Performance GPU Cluster Infrastructure**. 
+
+With an advanced academic foundation in Data Science & AI from the University of Sri Jayewardenepura, my work bridges cutting-edge machine learning research with robust, scalable backend engineering.
+
+- 🚀 **Focus Areas:** Engineering autonomous AI agents, semantic retrieval pipelines, and deterministic response validation.
+- 🖥️ **Systems & Infrastructure:** Architected and deployed an on-premise GPU Cluster system using **GPUStack on Rocky Linux** to accelerate academic deep learning workloads.
+- 🔬 **Published Research:** Co-authored and presented peer-reviewed research on *3D Data Modelling of Human EEG Signals* at the **IEEE ICACT International Conference (2020)**.
+
+---
+
+## 🛠️ Technical Competencies
+
+### 🧠 Generative AI, Autonomous Agents & Vector Search
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=flat-square&logo=databricks&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-2563EB?style=flat-square&logo=openai&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-0284C7?style=flat-square&logo=search&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### 📊 Machine Learning, Deep Learning & MLOps
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1572B6?style=flat-square&logo=apachespark&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### ⚙️ Backend, Databases & Containerization
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🖥️ Systems, Infrastructure & Enterprise Networks
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![GPUStack](https://img.shields.io/badge/GPUStack_HPC-7C3AED?style=flat-square&logo=nvidia&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Ubiquiti UniFi](https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+![VLANs & Security](https://img.shields.io/badge/VLANs_&_Hardening-334155?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+## 🚀 Featured Engineering Systems
+
+| System / Project | Domain | Tech Stack | Key Architectural Outcome |
+|:---|:---|:---|:---|
+| **Tax Advisory Chatbot** | Generative AI & Agents | Python, FastAPI, LangChain, Qdrant, React, Docker | Combined conversational RAG with a deterministic tax rule engine to eliminate hallucinations; integrated human feedback loop. |
+| **Academic HPC GPU Cluster** | HPC & Infrastructure | GPUStack, Rocky Linux, NVIDIA Distributed Compute | Deployed on-premise multi-GPU cluster infrastructure supporting university academic researchers in deep learning model training. |
+| **Solar Investment Feasibility** | Machine Learning & MLOps | Python, Random Forest, XGBoost, MLflow, React | Built predictive regression models estimating payback periods based on geographic solar irradiance and rooftop area. |
+| **3D Human EEG Modelling** | Neurotech & Data Science | Python, 3D Signal Processing, Matplotlib | Peer-reviewed research paper published in **IEEE Xplore / ICACT 2020**; reconstructed 2D scalp sensor telemetry into 3D volumetric models. |
+
+---
+
+## 📈 Activity & Engineering Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachithkalinga&theme=react-dark&hide_border=true&area=true&color=2563eb" width="95%" alt="Sachith Kalinga Activity Graph" />
+</div>
+
+---
+
+## 🎓 Education & Verified Research
+
+- **Master of Science (MSc) in Data Science and Artificial Intelligence** (2025)  
+  *University of Sri Jayewardenepura* &nbsp;|&nbsp; **Cumulative GPA: 3.45 / 4.00**  
+  *Core Focus:* Deep Learning, Machine Learning, Spatio-Temporal Data Analysis, Data Modelling, Statistics for AI.
+
+- **Bachelor of Science (BSc)** (2018)  
+  *University of Sri Jayewardenepura*  
+  *Disciplines:* Computer Science, Mathematics, and Physics.
+
+- **Peer-Reviewed Scientific Publication:**  
+  *3D Data Modelling of Human EEG Signals* — **IEEE / 22nd International Conference on Advanced Communication Technology (ICACT 2020)**.
+
+---
+
+## 🤝 Let's Connect
+
+I am open to technical discussions, autonomous AI agent architecture advisory, and machine learning engineering engagements:
+
+- 💼 **LinkedIn:** [linkedin.com/in/sachithkalinga](https://linkedin.com/in/sachithkalinga)
+- 📝 **Technical Writing on Medium:** [@sachithkalinga](https://medium.com/@sachithkalinga)
+- 🐦 **X (Twitter):** [@sachithkalinga](https://x.com/sachithkalinga)
+- ✉️ **Direct Email:** [sachithkalinga@gmail.com](mailto:sachithkalinga@gmail.com)
+
+---
+
+<div align="center">
+
+<!-- Visual Footer Wave Art -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,60:0f172a,100:0a0e17&height=100&section=footer" width="100%" alt="Footer Wave" />
+
+<sub>© 2026 Sachith Kalinga</sub>
+
+</div>
